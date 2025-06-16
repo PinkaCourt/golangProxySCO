@@ -1,0 +1,2 @@
+# golangProxySCO
+sco test proxy
